@@ -38,7 +38,7 @@ GitHub es para algo más que solo código. Es una plataforma para la colaboraci�
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sigue las instrucciones paso a paso en el README del nuevo repositorio.
 
-endstep0-->
+endstep0--!>
 
 <!--
   <<< Author notes: Paso 1 >>>
