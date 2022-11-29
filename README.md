@@ -18,7 +18,7 @@ _Organiza tus ideas y colabora usando Markdown, un lenguaje ligero para formatea
   Do not use quotes on the <details> tag attributes.
 -->
 
-- <!--step0-->
+_ <!--step0-->
 
 GitHub es para algo más que solo código. Es una plataforma para la colaboración de software, y Markdown es una de las formas más importantes en que los desarrolladores pueden hacer su comunicación clara y organizada en las incidencias (o _issues_) y solicitudes de extracción (o _pull requests_). Este curso te guiará para la creación y uso de encabezados de manera más efectiva, la organización de pensamientos en listas con viñetas, y mostrar cuánto trabajo has completado con listas de control. Incluso puedes utilizar Markdown para añadir algo de profundidad a tu trabajo con la ayuda de emoji, imágenes y enlaces.
 
@@ -38,7 +38,7 @@ GitHub es para algo más que solo código. Es una plataforma para la colaboraci�
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sigue las instrucciones paso a paso en el README del nuevo repositorio.
 
-- <!--endstep0-->
+_ <!--endstep0-->
 
 <!--
   <<< Author notes: Paso 1 >>>
@@ -213,7 +213,7 @@ Las acciones de GitHub se adelantaron y crearon una rama y un pull request para 
   Define terms and link to docs.github.com.
 -->
 
-- <details id=5>
+_ <details id=5>
 <summary><h2>Paso 5: Fusiona tu pull request</h2></summary>
 
 _Gran trabajo añadiendo una lista de tareas a tu archivo_ :heart:
