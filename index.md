@@ -7,3 +7,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Activar GitHub Pages
 - [ ] Hacer un esbozo de mi portfolio
 - [ ] Presentarme al mundo
+```
+$ git merge upstream/master
+```
